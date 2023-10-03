@@ -38,8 +38,10 @@ const parent = React.createElement(
   ] // We can add multiple tag in an array
 );
 
-// The above code is very messy so, in this case JSX came intp picture
+// The above code is very messy so, in this case JSX came into picture
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
 root.render(parent);
+
+// Pushed the code using my account
